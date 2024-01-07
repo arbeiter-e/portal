@@ -1,0 +1,52 @@
+{
+    "navbarItems": [
+      {
+        "id": 1,
+        "dynamic": false,
+        "text": "Home",
+        "link": "/"
+      },
+      {
+        "id": 2,
+        "dynamic": false,
+        "text": "News",
+        "link": "/news"
+      },
+      {
+        "id": 3,
+        "dynamic": false,
+        "text": "All Nations",
+        "link": "/nations"
+      },
+      {
+        "id": 4,
+        "dynamic": false,
+        "text": "Members",
+        "link": "/nation/members"
+      },
+      {
+        "id": 5,
+        "dynamic": false,
+        "text": "Relations",
+        "link": "/nation/relations"
+      },
+      {
+        "id": 6,
+        "dynamic": false,
+        "text": "Economics",
+        "link": "/nation/economics"
+      },
+      {
+        "id": 7,
+        "dynamic": true,
+        "text": "data.town",
+        "link": "/"
+      }
+    ],
+    "nonNavbar": [
+      "/login",
+      "/signup",
+      "/nation/members"
+    ]
+  }
+  

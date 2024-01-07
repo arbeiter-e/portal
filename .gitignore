@@ -1,2 +1,4 @@
 node_modules
 portal.code-workspace
+.next
+.env

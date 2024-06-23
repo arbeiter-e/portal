@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 node_modules
 portal.code-workspace
 .next
 .env
-=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -47,4 +45,6 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
->>>>>>> f8e4276 (initial)
+
+# code workspaces.
+*.code-workspace
